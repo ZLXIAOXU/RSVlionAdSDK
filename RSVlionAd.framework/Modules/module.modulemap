@@ -1,0 +1,6 @@
+framework module RSVlionAd {
+  umbrella header "RSVlionAd.h"
+
+  export *
+  module * { export * }
+}
